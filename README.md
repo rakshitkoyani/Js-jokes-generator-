@@ -2,10 +2,6 @@
 
 Binary to decimal conversion
 
-### default:
-
-![default](./default.png)
-
 ### output:
 
 ![thumbnail](./output.png)
